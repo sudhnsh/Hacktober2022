@@ -1,4 +1,4 @@
-# LeetCode-Solutions
+# Hacktoberfest 2022
 List of Leetcode-Solutions with proper explaination.
 ## Rules 
 1. Only valid solutions will be accepted.
